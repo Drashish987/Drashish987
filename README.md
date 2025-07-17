@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, PHP, C++
+- **Languages**: Python, JavaScript,C++
 - **Backend**: Node.js, Express, Laravel, REST APIs
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, Postman, GitHub Actions
